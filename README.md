@@ -209,3 +209,8 @@ PostgreSQL (Supabase)
 - [ ] Build Google OAuth flow for therapist onboarding
 - [ ] Add HIPAA-compliant audit logging
 - [ ] Implement real-time admin notifications (Supabase Realtime)
+
+# LINK TO THE PROJECT
+https://69e8dec35ecc5979d2220fc0--helpful-khapse-def140.netlify.app/
+
+
